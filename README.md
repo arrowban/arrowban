@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @arrowban
-- 👀 I’m interested in building cool stuff
+I build stuff
 
 <!---
 arrowban/arrowban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
